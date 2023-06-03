@@ -572,7 +572,7 @@ section {
   position: relative;
 }
 
-.services-list .service-item .icon i {
+.services-list .service-item .icon svg {
   font-size: 32px;
   line-height: 0;
   margin-right: 20px;
