@@ -778,11 +778,6 @@ section {
   height: 30%;
 }
 
-.year-date p {
-  font-size: small;
-  color: var(--color-primary);
-}
-
 .footer .footer-legal {
   padding: 30px 0;
   background: var(--color-secondary);
