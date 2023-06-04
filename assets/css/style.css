@@ -89,6 +89,48 @@ section {
   margin-bottom: 0;
 }
 
+
+/*--------------------------------------------------------------
+# About
+--------------------------------------------------------------*/
+.about .content h2 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 60px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  color: #052c3f;
+}
+
+.about .content h3 {
+  font-weight: 500;
+  line-height: 32px;
+  font-size: 24px;
+  color: var(--color-secondary);
+}
+
+.about .content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.about .content ul li {
+  padding: 10px 0 0 28px;
+  position: relative;
+}
+
+.about .content ul i {
+  left: 0;
+  top: 7px;
+  position: absolute;
+  font-size: 20px;
+  color: #85b0be;
+}
+
+.about .content p:last-child {
+  margin-bottom: 0;
+}
+
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
