@@ -1,6 +1,6 @@
 # AWS-07-MAR-G8
 >  ![alt text](https://i.imgur.com/KhPhAjQ.png)
-![alt text](./assets/img/aws-banner.jpg)
+<!--![alt text](./assets/img/aws-banner.jpg)-->
 
 #
 ## Descrição:
