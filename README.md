@@ -29,7 +29,7 @@
 ## Deploy
 
 Para acessar ao link do projeto: 
-  * [TCC-EDN GRUPO 8](https://tcc-aws.cloud/)
+  * [TCC-EDN GRUPO 8](https://tcc-aws-edn.vercel.app/)
 
 #
 ## Grupo
